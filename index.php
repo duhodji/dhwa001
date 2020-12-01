@@ -54,7 +54,7 @@
       echo "<br>";
       echo "<br>";
       echo "<br>";
-      echo "Thank you. This is really helpful. Do you mind doing it again? <br>";
+      echo "Thank you. This is really helpful. Please do it again. <br>";
       echo "<br>";
       echo "<br>";
       echo "<br>";
@@ -78,8 +78,8 @@
      case 11:
       echo "<br>";
       echo "<br>";
-      echo "We think we have enough answers from you. Thank you. <br>";
-      echo "But feel free to continue if you want to. <br>";
+      echo "I think I have enough answers from you. Thank you. <br>";
+      echo "But feel free to continue if you want to.. <br>";
       echo "When you are done, just close this browser window <br> <br>";
       echo "<br>";
       echo "<br>";
