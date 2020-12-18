@@ -83,7 +83,11 @@
    </div>
    <div class = "grid-item-text">
     <?php
-     echo "Progres: " . ($iter-1) . "/20";
+     if ($iter < 22) {
+      echo "Progres: " . ($iter-1) . "/20";
+     } else {
+      echo "Progress: 20/20 + " . ($iter - 21);
+     }
     ?>
     <div class="meter">
      <?php
